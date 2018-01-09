@@ -1,0 +1,104 @@
+map:{
+    ; 2018/01/02 01:44:18 = map:{
+        ; diffDate = 2018/01/02 01:44:18
+        ; tableDiff = map:{
+            ; Member = map:{
+                ; tableName = Member
+                ; diffType = CHANGE
+                ; columnDiff = map:{
+                    ; id = map:{
+                        ; columnName = id
+                        ; diffType = CHANGE
+                        ; notNullDiff = map:{
+                            ; next = true
+                            ; previous = false
+                        }
+                    }
+                }
+                ; primaryKeyDiff = map:{
+                    ; Member_pkey = map:{
+                        ; constraintName = Member_pkey
+                        ; diffType = ADD
+                    }
+                }
+            }
+        }
+    }
+    ; 2018/01/02 01:20:24 = map:{
+        ; diffDate = 2018/01/02 01:20:24
+        ; tableDiff = map:{
+            ; Member = map:{
+                ; tableName = Member
+                ; diffType = CHANGE
+                ; columnDiff = map:{
+                    ; id = map:{
+                        ; columnName = id
+                        ; diffType = ADD
+                    }
+                }
+            }
+        }
+    }
+    ; 2018/01/01 23:15:35 = map:{
+        ; diffDate = 2018/01/01 23:15:35
+        ; tableDiff = map:{
+            ; Member = map:{
+                ; tableName = Member
+                ; diffType = CHANGE
+                ; columnDiff = map:{
+                    ; sei = map:{
+                        ; columnName = sei
+                        ; diffType = ADD
+                    }
+                    ; mei = map:{
+                        ; columnName = mei
+                        ; diffType = ADD
+                    }
+                    ; tel = map:{
+                        ; columnName = tel
+                        ; diffType = ADD
+                    }
+                    ; adress = map:{
+                        ; columnName = adress
+                        ; diffType = ADD
+                    }
+                }
+            }
+            ; date = map:{
+                ; tableName = date
+                ; diffType = CHANGE
+                ; columnDiff = map:{
+                    ; sei = map:{
+                        ; columnName = sei
+                        ; diffType = ADD
+                    }
+                    ; mei = map:{
+                        ; columnName = mei
+                        ; diffType = ADD
+                    }
+                    ; tel = map:{
+                        ; columnName = tel
+                        ; diffType = ADD
+                    }
+                    ; adress = map:{
+                        ; columnName = adress
+                        ; diffType = ADD
+                    }
+                }
+            }
+        }
+    }
+    ; 2018/01/01 17:52:29 = map:{
+        ; diffDate = 2018/01/01 17:52:29
+        ; tableCount = map:{
+            ; next = 4
+            ; previous = 3
+        }
+        ; tableDiff = map:{
+            ; date = map:{
+                ; tableName = date
+                ; diffType = ADD
+            }
+        }
+    }
+}
